@@ -1,0 +1,2 @@
+3- le test peut échouer car il ne peut pas déterminer si les deux objets Money représentent effectivement le même montant dans la même devise.
+5- le test a encore échoué
